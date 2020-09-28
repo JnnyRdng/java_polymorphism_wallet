@@ -20,5 +20,4 @@ public class Wallet {
     public void addItem(IScan item) {
         this.cards.add(item);
     }
-ank
 }
